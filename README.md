@@ -30,13 +30,12 @@ It combines housing models, official energy performance calculations (CSTB API),
 - Explore applications at building and district scales
 # Demonstration
 
-### Example 1 – Pareto Front Visualization
-![Pareto Front](pareto_front.gif)
 
-### Example 2 – Interactive Query by Budget
+
+### Example 1– Interactive Query by Budget
 ![Budget Query](budget_query.gif)
 
-### Example 3 – Interactive Query by Energy Target
+### Example 2 – Interactive Query by Energy Target
 ![Energy Target](energy_target.gif)
 
 
