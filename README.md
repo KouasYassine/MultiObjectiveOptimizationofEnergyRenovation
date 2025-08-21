@@ -7,7 +7,7 @@ This project explores how to optimize home energy renovations by balancing three
 - Comfort and regulatory compliance
 
 It combines housing models, official energy performance calculations (CSTB API), and optimization algorithms to identify the most effective renovation strategies.
-
+# The API Key is Not Provided in the CODE for Copyright Reasons!
 ## Approach
 - Simulated a simplified dwelling and its energy losses  
 - Tested renovation scenarios with CSTB’s certified energy calculation tool  
@@ -29,7 +29,6 @@ It combines housing models, official energy performance calculations (CSTB API),
 - Develop a user-friendly interface  
 - Explore applications at building and district scales
 # Demonstration
-
 
 
 ### Example 1– Interactive Query by Budget
