@@ -33,10 +33,10 @@ It combines housing models, official energy performance calculations (CSTB API),
 
 
 ### Example 1– Interactive Query by Budget
-![Budget Query](budget_query.gif)
+![Budget Query](budget_query.gif.gif)
 
 ### Example 2 – Interactive Query by Energy Target
-![Energy Target](energy_target.gif)
+![Energy Target](energy_target.gif.gif)
 
 
 ## Authors
